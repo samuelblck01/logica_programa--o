@@ -17,7 +17,7 @@ valor %= 2
 nota_1 = valor // 1 
 valor %= 1 
 
-print("quantidade de notas 100 = " ,nota_100)
+print("quantidade de notas  100 = " ,nota_100)
 print("quantidade de notas 50 = " ,nota_50)
 print("quantidade de notas 20 = " ,nota_20)
 print("quantidade de notas 10 = " ,nota_10)
