@@ -24,4 +24,3 @@ print("quantidade de notas 10 = " ,nota_10)
 print("quantidade de notas 5 = " ,nota_5)
 print("quantidade de notas 2 = " ,nota_2)
 print("quantidade de notas 1 = " ,nota_1)
-
